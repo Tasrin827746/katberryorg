@@ -3,12 +3,17 @@ import ProjectGallery, { Projects2 } from '@/components/Projects/Projects2';
 const cardProjects: Projects2[] = [
   {
     id: '1',
-    image: '/card/1/thumbnail.jpg',
+    image: '/card/1/Thumbnail.jpg',
     extraImages: [
-      '/card/1/thumbnail.jpg',
-      '/card/2/thumbnail.jpg',
-      '/card/3/thumbnail.jpg',
-      '/card/4/thumbnail.jpg',
+      '/card/1/1.jpg',
+      '/card/1/2.jpg',
+      '/card/1/3.jpg',
+      '/card/1/4.jpg',
+      '/card/1/5.jpg',
+      '/card/1/6.jpg',
+      '/card/1/7.jpg',
+      '/card/1/8.jpg',
+     
     ],
   },
   {
@@ -30,7 +35,7 @@ const cardProjects: Projects2[] = [
   },
   {
     id: '3',
-    image: '/card/3/thumbnail.jpg',
+    image: '/card/3/Thumbnail.jpg',
     extraImages: [
       '/card/3/1.jpg',
       '/card/3/2.jpg',
@@ -45,7 +50,7 @@ const cardProjects: Projects2[] = [
   },
   {
     id: '4',
-    image: '/card/4/thumbnail.jpg',
+    image: '/card/4/Thumbnail.jpg',
     extraImages: [
       '/card/4/1.jpg',
       '/card/4/2.jpg',
